@@ -1,0 +1,9 @@
+.Todo{
+    display: flex;
+    padding-top: 20px;
+    flex-direction: column;
+    align-items: center;
+    background-color: #999999;
+    min-height: 100vh;
+    min-width: 100vh; 
+}

@@ -1,0 +1,12 @@
+.Form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.TextInput{
+    width: 800px;
+    color: red;
+    height: 100px;
+}
